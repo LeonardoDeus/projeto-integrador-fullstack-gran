@@ -1,8 +1,0 @@
-FACULDADE GRAN (https://faculdade.grancursosonline.com.br/)
-Projeto Disciplina Projeto Integrador
-
-FASE - Frontend - 3 Páginas:
-1. Página de Produto - CRUD (Criar, Ler, Atualizar, Deletar) - campos: nome, descrição, preço, código de barras
-2. Página de Fornecedor - CRUD - campos: nome, CNPJ, endereço, contato
-3. Página de Associação Produto/Fornecedor - muitos-para-muitos - associar produto a um fornecedor, desassociar, consultar quais produtos são fornecidos por um fornecedor e vice-versa
-
